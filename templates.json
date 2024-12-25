@@ -1,0 +1,39 @@
+{
+    "pending": {},
+    "approved": [
+        {
+            "name": "flennn template ",
+            "description": "flennn template Description",
+            "image_url": "https://cdn.discordapp.com/avatars/295590388033388546/a_94961a2e5648138778105e790304b51e.gif?size=1024",
+            "roles": [
+                "owner",
+                "admin",
+                "mod",
+                "support"
+            ],
+            "channels": [
+                "anounce",
+                "chat",
+                "cmd",
+                "support-en"
+            ]
+        },
+        {
+            "name": "flennn template v2",
+            "description": "flennn template Description v2",
+            "image_url": "https://cdn.discordapp.com/avatars/295590388033388546/a_94961a2e5648138778105e790304b51e.gif?size=1024",
+            "roles": [
+                "owner",
+                "admin",
+                "mod",
+                "support"
+            ],
+            "channels": [
+                "anounce",
+                "chat",
+                "cmd",
+                "support-en"
+            ]
+        }
+    ]
+}
